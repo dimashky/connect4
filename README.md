@@ -5,6 +5,10 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 $ git clone https://github.com/dimashky/connect4.git
 ```
+To start the game; write on prolog console:
+```
+newGame(NUMBER_OF_ROW, NUMBER_OF_COLUMN)
+```
 ### Prerequisites
 * [SWI-Prolog](http://www.swi-prolog.org/)
 ## Algorithms
